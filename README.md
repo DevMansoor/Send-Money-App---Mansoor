@@ -27,3 +27,6 @@ The app follows **MVVM (Model-View-ViewModel) architecture** with elements of **
 
   **Instructions** :
   - Tap the 'Send Money App' text to autofill credentials and log in.
+  - 
+### Video Demo
+[Click to watch video](./media/Mansoor_Task.webm)
